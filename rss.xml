@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[freq]]></title>
         <description><![CDATA[freq]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hightime-rebellion/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 17:10:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 04 Aug 2016 17:36:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hightime-rebellion/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d0bb37ac-a0c1-4f45-b97c-3f9fdd667a5f.png">]]></description>
+            <link>https://www.facebook.com/hightime-rebellion-172040302375/</link>
+            <guid isPermaLink="false">b79d27d4-c6b3-4365-bb8e-9a19172349b7</guid>
+            <pubDate>Thu, 04 Aug 2016 17:36:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1efc764-d411-48a3-bf15-00cf1ffab06e.jpg" alt="HIGHTIME REBELLION 2016">]]></description>
-            <link>undefinedhightime-rebellion-2016/index.html</link>
+            <link>https://thegrid.ai/hightime-rebellion/hightime-rebellion-2016/index.html</link>
             <guid isPermaLink="false">20b5f267-1320-4986-bfde-6cfbe588749b</guid>
             <pubDate>Thu, 04 Aug 2016 17:10:08 GMT</pubDate>
         </item>
