@@ -1,16 +1,14 @@
 ---
-datePublished: '2016-08-04T17:10:08.605Z'
+datePublished: '2016-08-04T18:52:19.661Z'
 author: []
 via: {}
-dateModified: '2016-08-04T17:10:02.325Z'
+dateModified: '2016-08-04T18:52:18.739Z'
 title: ''
 publisher: {}
 description: HIGHTIME REBELLION 2016
-starred: false
 sourcePath: _posts/2016-08-04-hightime-rebellion-2016.md
-inFeed: true
 hasPage: true
-inNav: false
+starred: false
 url: hightime-rebellion-2016/index.html
 _context: 'http://schema.org'
 _type: Article
