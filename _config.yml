@@ -12,9 +12,6 @@ color:
     - '#F4F482'
 layout_spectrum: 0.2838024727534503
 name: hightime rebellion
-navigation:
-  - name: social media
-    url: 'https://www.facebook.com/'
-    type: external
+navigation: []
 title: freq
 description: EP
