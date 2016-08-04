@@ -1,4 +1,3 @@
-layout_spectrum: 0.2838024727534503
 typography_spectrum: 0.9841339925769717
 color:
   brandStrength: 0.9574627722613513
@@ -11,5 +10,7 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
+layout_spectrum: 0.2838024727534503
 name: hightime rebellion
+title: freq
 description: EP
