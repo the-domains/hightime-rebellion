@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-08-04T19:36:18.427Z'
+datePublished: '2016-08-04T19:39:45.479Z'
 sourcePath: _posts/2016-08-04-hightime-rebellion-2016.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-04T19:36:16.130Z'
+dateModified: '2016-08-04T19:39:45.393Z'
 title: New Single 2016 “HUM”
 publisher: {}
 description: 'latest track, '
 starred: false
-url: hightime-rebellion-2016/index.html
+url: new-single-2016-hum/index.html
 _context: 'http://schema.org'
 _type: Article
 
