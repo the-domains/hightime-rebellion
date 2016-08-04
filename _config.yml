@@ -1,16 +1,16 @@
-typography_spectrum: 0.829654011875391
+typography_spectrum: 0.27306673559360206
 color:
-  brandStrength: 0.7292334767989814
-  lightness: 0.2954212960321456
-  saturation: 0.44574728258885443
-  rhythmicContrast: 0.7689031227491796
+  brandStrength: 0.34409194346517324
+  lightness: 0.9401726454962045
+  saturation: 0.3649561395868659
+  rhythmicContrast: 0.20723299193196
   brandColors:
     - '#000000'
     - '#263248'
     - '#7E8AA2'
     - '#FFFFFF'
     - '#FF9800'
-layout_spectrum: 0.4503610546234995
+layout_spectrum: 0.522933735512197
 name: hightime rebellion
 navigation: []
 title: freq
