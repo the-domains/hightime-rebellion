@@ -1,23 +1,28 @@
-typography_spectrum: 0.874241043580696
+title: ''
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+description: official website coming soon
 color:
+  saturation: 0.714887
   brandStrength: 0.9083972100634128
-  lightness: 0.41644865507259965
-  saturation: 0.7148869640659541
-  rhythmicContrast: 0.29761153273284435
+  lightness: 0.437276
   brandColors:
     - '#DC3522'
     - '#D9CB9E'
     - '#374140'
     - '#2A2C2B'
     - '#1E1E20'
-layout_spectrum: 0.03544006496667862
-author:
-  name: hightime rebellion
-  email: hightime.rebellion@gmail.com
-  url: hightimerebellion
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b4de39a-6386-401e-a743-15addac907be.jpg
-name: hightime rebellion
+  rhythmicContrast: 0.2976115
 navigation:
   - name: Youtube channel
     url: 'https://www.youtube.com/user/HightimeRebellion'
@@ -34,7 +39,14 @@ navigation:
   - name: about the band
     id: b79d27d4-c6b3-4365-bb8e-9a19172349b7
     type: content
+name: hightime rebellion
+author:
+  name: hightime rebellion
+  email: hightime.rebellion@gmail.com
+  url: hightimerebellion
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/147f008d-7b1a-43cf-9113-e510fb9253c8.jpg
-title: ''
-description: official website coming soon
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b4de39a-6386-401e-a743-15addac907be.jpg
+typography_spectrum: 0.6738351
+layout_spectrum: 0.03544006496667862
