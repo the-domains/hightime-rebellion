@@ -1,16 +1,16 @@
-typography_spectrum: 0.27306673559360206
+typography_spectrum: 0.7731937083881348
 color:
-  brandStrength: 0.34409194346517324
-  lightness: 0.9401726454962045
-  saturation: 0.3649561395868659
-  rhythmicContrast: 0.20723299193196
+  brandStrength: 0.9083972100634128
+  lightness: 0.41644865507259965
+  saturation: 0.7148869640659541
+  rhythmicContrast: 0.29761153273284435
   brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
-layout_spectrum: 0.522933735512197
+    - '#DC3522'
+    - '#D9CB9E'
+    - '#374140'
+    - '#2A2C2B'
+    - '#1E1E20'
+layout_spectrum: 0.8437382683623582
 author:
   name: hightime
   email: hightime.rebellion@gmail.com
