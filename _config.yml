@@ -1,4 +1,4 @@
-typography_spectrum: 0.7731937083881348
+typography_spectrum: 0.874241043580696
 color:
   brandStrength: 0.9083972100634128
   lightness: 0.41644865507259965
@@ -10,7 +10,7 @@ color:
     - '#374140'
     - '#2A2C2B'
     - '#1E1E20'
-layout_spectrum: 0.8437382683623582
+layout_spectrum: 0.03544006496667862
 author:
   name: hightime
   email: hightime.rebellion@gmail.com
