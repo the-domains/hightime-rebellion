@@ -13,16 +13,16 @@ collections:
       number: 10
 description: official website coming soon
 color:
-  saturation: 0.5430108
-  brandStrength: 0.8835126
-  lightness: 0.4910394
+  saturation: 0.7688172
+  brandStrength: 0.01075269
+  lightness: 0.7903226
   brandColors:
     - '#FCD8D8'
     - '#C04500'
     - '#F57F76'
     - '#E8AB96'
     - '#D1771B'
-  rhythmicContrast: 0.5555556
+  rhythmicContrast: 0.2939068
 navigation:
   - name: Youtube channel
     url: 'https://www.youtube.com/user/HightimeRebellion'
@@ -39,13 +39,13 @@ navigation:
   - name: about the band
     id: b79d27d4-c6b3-4365-bb8e-9a19172349b7
     type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/147f008d-7b1a-43cf-9113-e510fb9253c8.jpg
 name: hightime rebellion
 author:
   name: hightime rebellion
   email: hightime.rebellion@gmail.com
   url: hightimerebellion
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/147f008d-7b1a-43cf-9113-e510fb9253c8.jpg
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b4de39a-6386-401e-a743-15addac907be.jpg
 typography_spectrum: 0.6738351
