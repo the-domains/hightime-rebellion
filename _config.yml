@@ -22,6 +22,9 @@ navigation:
   - name: Youtube channel
     url: 'https://www.youtube.com/user/HightimeRebellion'
     type: external
+  - name: twitter
+    url: 'https://twitter.com/Hightimeband'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/147f008d-7b1a-43cf-9113-e510fb9253c8.jpg
 title: HIGHTIME REBELLION
