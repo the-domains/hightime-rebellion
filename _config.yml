@@ -5,24 +5,24 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 description: official website coming soon
 color:
   saturation: 0.7688172
   brandStrength: 0.01075269
-  lightness: 0.7903226
+  rhythmicContrast: 0.2939068
   brandColors:
     - '#FCD8D8'
     - '#C04500'
     - '#F57F76'
     - '#E8AB96'
     - '#D1771B'
-  rhythmicContrast: 0.2939068
+  lightness: 0.7903226
 navigation:
   - name: Youtube channel
     url: 'https://www.youtube.com/user/HightimeRebellion'
@@ -41,12 +41,12 @@ navigation:
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/147f008d-7b1a-43cf-9113-e510fb9253c8.jpg
-name: hightime rebellion
 author:
   name: hightime rebellion
   email: hightime.rebellion@gmail.com
   url: hightimerebellion
+name: hightime rebellion
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b4de39a-6386-401e-a743-15addac907be.jpg
-typography_spectrum: 0.6738351
-layout_spectrum: 0.03544006496667862
+typography_spectrum: 0.4892473
+layout_spectrum: 0.1648746
