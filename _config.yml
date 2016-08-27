@@ -39,14 +39,14 @@ navigation:
   - name: about the band
     id: b79d27d4-c6b3-4365-bb8e-9a19172349b7
     type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/147f008d-7b1a-43cf-9113-e510fb9253c8.jpg
+name: hightime rebellion
 author:
   name: hightime rebellion
   email: hightime.rebellion@gmail.com
   url: hightimerebellion
-name: hightime rebellion
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/147f008d-7b1a-43cf-9113-e510fb9253c8.jpg
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b4de39a-6386-401e-a743-15addac907be.jpg
 typography_spectrum: 0.4892473
-layout_spectrum: 0.1648746
+layout_spectrum: 1
